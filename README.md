@@ -56,7 +56,7 @@ When you launch the app, you’ll see:
 - A **Predict Salary** button that displays the predicted value in INR.  
 
 <p align="center">
-  <img src="app_screenshot.png" alt="Employee Salary Predictor Screenshot" width="700"/>
+  <img src="output.png" alt="Employee Salary Predictor Screenshot" width="700"/>
 </p>
 
 ---
@@ -80,9 +80,13 @@ When you launch the app, you’ll see:
 
 ---
 
-## ⚙️ Installation & Usage
+## 📧 Contact
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/employee-salary-predictor.git
-cd employee-salary-predictor
+For any feedback or collaboration opportunities:  
+**Author**: Sarthak Salvi  
+**Email**: [sarthaksalvi2107@gmail.com](mailto:sarthaksalvi2107@gmail.com)
+
+---
+
+> ⭐ If you found this project insightful, consider starring this repository!
+
